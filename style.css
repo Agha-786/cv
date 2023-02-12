@@ -1,0 +1,23 @@
+/* Body Main */
+body {
+  background-color: #b6eada;
+  color: #03001c;
+  font-family: "Itim", cursive;
+  /* font-weight: 600; */
+}
+
+/* Headings */
+h1,
+h2,
+h3 {
+  color: #301e67;
+  font-weight: bolder;
+}
+
+/* line */
+hr {
+  border-style: dotted none none;
+  border-color: #5b8fb9;
+  width: 20%;
+  border-width: 4px;
+}
